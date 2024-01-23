@@ -1,0 +1,7 @@
+{
+  "name": "react_study",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongoose": "^8.1.0"
+  }
+}
